@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AsthaJain00016
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning System Design and Dsa from Coder Army
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN stack development...
 - 📫 How to reach me jainastha587@gmail.com
 <!---
 AsthaJain00016/AsthaJain00016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
